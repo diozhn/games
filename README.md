@@ -39,14 +39,5 @@ $ python3 menu.py
 - [Python](https://www.python.org/)
 
 ### Autor
----
-
-<a href="https://discord.gg/WBgQxYvN3d">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61253739?s=60&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Diogo Mendes</b></sub></a> <a href="https://discord.gg/WBgQxYvN3d" title="COSMO">:stars:</a>
-
-
 Feito com ❤️ por Diogo Mendes 👋🏽 Entre em contato!
-
-[![Gmail Badge](https://img.shields.io/badge/-diogo@blitzen.cc-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogo@blitzen.cc)](mailto:diogo@blitzen.cc)
+E-mail: diogo@blitzen.cc
