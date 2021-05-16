@@ -26,7 +26,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/diozhn/games>
+$ git clone <https://github.com/diozhn/games.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd games
