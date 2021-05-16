@@ -1,0 +1,6 @@
+archive = open("words.txt", "w")
+archive.write('banana\n')
+archive.write('melancia\n')
+archive.write('morango\n')
+archive.write('manga\n')
+archive.close()
