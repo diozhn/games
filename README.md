@@ -33,6 +33,7 @@ $ cd games
 
 # Execute o arquivo menu.py ou o jogo desejado, ex:
 $ python3 menu.py
+```
 
 ### 🛠 Tecnologias
  As seguintes ferramentas foram usadas na construção do projeto:
